@@ -1,12 +1,6 @@
 # ABI Tech
 
-ABI Tech (AI Business Implementation Technology) designs and builds production AI systems, AI agents, automation, RAG solutions, local/edge AI, and custom software for organizations.
+AI Business Implementation Technology. Production AI engineering, agents, RAG, automation, voice AI, local/edge AI, mobile and web software.
 
-## Key pages
-- /services/ — AI implementation services
-- /services/ai-strategy/ — AI strategy and advisory
-- /services/custom-ai/ — custom AI development
-- /services/automation/ — AI automation and integration
-- /case-studies/ — implementation case studies
-- /blog/ — engineering and AI implementation insights
-- /contact/ — contact ABI Tech
+Contact: admin@abitech.online
+Website: https://abitech.online
